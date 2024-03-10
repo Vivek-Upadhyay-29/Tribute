@@ -1,0 +1,8 @@
+.navbar_title{
+    justify-content: end;
+}
+
+#logo{
+display: inline;
+opacity: 0;
+}
