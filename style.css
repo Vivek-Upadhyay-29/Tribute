@@ -1,8 +1,51 @@
-.navbar_title{
-    justify-content: end;
+.sensei-img{
+      filter: drop-shadow( 5px 15px 10px rgba(18, 17, 17, 0.69));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    background-position: center;
+   
+    
+}
+.header{
+
+    margin: 10px;
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 100px;
+}
+ .logo{
+
+    background-color: black;
 }
 
-#logo{
-display: inline;
-opacity: 0;
+nav .div{
+    position: relative;
+    justify-content: end;
 }
+.main{
+    width: 100%;
+    background-color: orange;
+}
+
+.info{
+    margin: 50px;
+    display: inline;
+    float: left;
+    
+   
+}
+h2{
+        font-family: "Anton", sans-serif;
+        font-weight:bolder;
+        font-style:normal;
+        z-index: 10;
+      
+      
+      }
+      
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bangers&family=Libre+Baskerville&family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap')
+
