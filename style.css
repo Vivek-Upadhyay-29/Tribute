@@ -31,9 +31,10 @@ nav .div{
 }
 
 .info{
-    margin: 50px;
-    display: inline;
-    float: left;
+    margin-top: 0%;
+    padding: 50px;
+    background-color: rgb(219, 234, 104);
+ 
     
    
 }
@@ -45,6 +46,14 @@ h2{
       
       
       }
+      .main1{
+        background-colorchartreuse;
+        z-index: 10;
+      }
+#y1logo{
+    float: left;
+    margin-right: 20px;
+}
       
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bangers&family=Libre+Baskerville&family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap')
